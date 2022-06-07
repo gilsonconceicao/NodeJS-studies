@@ -1,0 +1,1 @@
+module.exports = 'A vida é um desafio, esteja pronto para cada um deles.'

@@ -1,0 +1,16 @@
+{
+  "name": "funcionarios",
+  "version": "1.0.0",
+  "description": "projeto realizado para aplicar os conhecimentos. ",
+  "main": "funcionarios.js",
+  "scripts": {
+    "start": "nodemon",
+    "dev": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Junior Santos",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.27.2"
+  }
+}
